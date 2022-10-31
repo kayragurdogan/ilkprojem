@@ -15,4 +15,4 @@ while oynamak_istiyor_musun == "Evet":
         tahmin = int(input("1 ile 100 arasındaki sayıyı tahmin et!"))
 
 
-    oynamak_istiyor_musun = input("yeni oyun? 'Evet', 'Hayır' \n")
+    oynamak_istiyor_musun = input("Doğru!!!!   Evet yeni oyun? 'Evet', 'Hayır' \n")
